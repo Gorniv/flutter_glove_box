@@ -75,6 +75,7 @@ String derivedFontFamily(Map<String, dynamic> fontDefinition) {
 
 const List<String> _overridableFonts = [
   'Roboto',
+  'NotoSansArabic',
   '.SF UI Display',
   '.SF UI Text',
   '.SF Pro Text',
