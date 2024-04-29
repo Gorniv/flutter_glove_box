@@ -26,3 +26,4 @@ flutter:
     - family: Roboto
       fonts:
         - asset: packages/golden_toolkit/fonts/Roboto-Regular.ttf
+        - asset: packages/golden_toolkit/fonts/NotoSansArabic-Regular.ttf
